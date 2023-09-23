@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "496579715199",
+    "project_id": "myapps-bc655",
+    "storage_bucket": "myapps-bc655.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496579715199:android:c98f4293784d6d9dd49f4a",
+        "android_client_info": {
+          "package_name": "com.sanjit49.cheatingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG-OhxdVb9Sr8pPnrGEzMKmP2rDWAWGBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496579715199:android:0dc2a9374a65af24d49f4a",
+        "android_client_info": {
+          "package_name": "com.sanjit49.gatepass"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG-OhxdVb9Sr8pPnrGEzMKmP2rDWAWGBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
